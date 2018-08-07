@@ -9,7 +9,7 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 https://trello.com/b/oodgJUzu
 
-* ![Homepage](/Homepage Patent Finder STL.png)
+* [Homepage](P3-Project_Planning/Homepage Patent Finder STL.png)
 * ![Search Results](/SearchResults-Patent Finder STL2.png?raw=true)
 * ![User Sign Up](/UserSignUp-Patent Finder STL.png)
 
