@@ -15,4 +15,4 @@ https://www.linkedin.com/in/drew-blosser/
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
 
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
+https://github.com/drewb101/liftoff-assignments/blob/master/C1-Online_Profiles/Drew_Blosser_Resume_2018_Final.pdf
