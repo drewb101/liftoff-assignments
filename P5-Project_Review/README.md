@@ -8,4 +8,4 @@ If you have made progress, and you engage with your mentor you will be marked as
 [Project Review Assignment](https://education.launchcode.org/liftoff/assignments/project-review/)
 
 ## Submission Instructions
-Your mentor will update your grade after your review. If your grade is missing, check in with your Mentor.
+https://github.com/drewb101/liftoff-assignments/blob/master/C1-Online_Profiles/Drew_Blosser_Resume_2018_Final.pdf
