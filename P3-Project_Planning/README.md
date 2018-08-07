@@ -7,9 +7,16 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+https://trello.com/b/oodgJUzu
+
+![Homepage] (/P3-Project_Planning/Homepage Patent Finder STL.png)
+![Search Results] (/P3-Project_Planning/SearchResults-Patent Finder STL2.png)
+![User Sign Up] (/P3-Project_Planning/UserSignUp-Patent Finder STL)
+
+
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+https://trello.com/b/zUO2hDnZ
