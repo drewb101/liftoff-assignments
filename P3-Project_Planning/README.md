@@ -9,9 +9,9 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 https://trello.com/b/oodgJUzu
 
-![Homepage] (Homepage Patent Finder STL.png)
-![Search Results] (https://raw.githubusercontent.com/drewb101/liftoff-assignments/master/P3-Project_Planning/SearchResults-Patent%20Finder%20STL2.png)
-![User Sign Up] (https://raw.githubusercontent.com/drewb101/liftoff-assignments/master/P3-Project_Planning/UserSignUp-Patent%20Finder%20STL.png)
+![Homepage](liftoff-assignments/P3-Project_Planning/Homepage Patent Finder STL.png)
+![Search Results](liftoff-assignments/P3-Project_Planning/SearchResults-Patent Finder STL2.png)
+![User Sign Up](liftoff-assignments/P3-Project_Planning/UserSignUp-Patent Finder STL.png)
 
 
 
